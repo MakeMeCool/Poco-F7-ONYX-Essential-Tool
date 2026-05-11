@@ -23,7 +23,7 @@ Before using this tool, ensure you have:
 ---
 
 ## 🚀 How to Use
-1. Download the `Poco_F7_Essential_Tool.bat` script to your PC.
+1. Download the [Poco_F7_Essential_Tool.bat](https://github.com/MakeMeCool/Poco-F7-ONYX-Essential-Tool/releases) script to your PC.
 2. Double-click to run it.
 3. On the first launch, wait a few seconds while it downloads the required background engines (ADB, Fastboot, Payload Dumper).
 4. Connect your phone via USB.
