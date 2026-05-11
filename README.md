@@ -1,5 +1,7 @@
 # 📱 Poco F7 (ONYX) Essential Tool
 
+![Poco F7 Essential Tool Banner](poster.png)
+
 An all-in-one, fully automated Windows utility designed to completely simplify device management, custom recovery installation, and custom ROM flashing for the **Poco F7 (Codename: ONYX)**. 
 
 Built with a sleek, mathematically centered terminal UI, this tool eliminates the need to manually type tedious command-line instructions. Just drag, drop, and flash.
